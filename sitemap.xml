@@ -6,96 +6,132 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://www.aarthianbalagan.com/</loc>
-  <lastmod>2017-02-05T21:55:51+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/main.html</loc>
-  <lastmod>2017-02-05T21:55:51+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-digital-mammography.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/single-work-poppy-redesign.html</loc>
-  <lastmod>2017-02-05T21:40:45+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-poppy-redesign.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/single-work-motivation-alarm.html</loc>
-  <lastmod>2017-02-05T21:40:44+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-toefl-redesign.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/single-work-irctc-redesign-storyboarding.html</loc>
-  <lastmod>2017-02-05T21:40:43+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-user-experience-analytics.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/single-work-digital-mammography.html</loc>
-  <lastmod>2017-02-05T21:40:43+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-live-A-B-Testing.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/single-work-seo.html</loc>
-  <lastmod>2017-02-05T21:40:45+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-irctc-redesign-storyboarding.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/single-work-html-react.html</loc>
-  <lastmod>2017-02-05T21:40:43+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-motivation-alarm.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/single-work-miscellaneous-designs.html</loc>
-  <lastmod>2017-02-05T21:40:44+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-seo.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/single-work-critique.html</loc>
-  <lastmod>2017-02-05T21:40:42+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-html-react.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/single-work-first-portfolio.html</loc>
-  <lastmod>2017-02-05T21:40:43+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-miscellaneous-designs.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/main.html</loc>
-  <lastmod>2017-02-02T02:51:27+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-critique.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/dreams.html</loc>
-  <lastmod>2017-02-02T02:51:25+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/single-work-first-portfolio.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/blogs.html</loc>
-  <lastmod>2017-02-02T02:51:23+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/portfolio/main.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/poppy.html</loc>
-  <lastmod>2017-02-02T02:51:28+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/portfolio/dreams.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/redesign.html</loc>
-  <lastmod>2017-02-02T02:51:29+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/portfolio/blogs.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/gehealthcare.html</loc>
-  <lastmod>2017-02-02T02:51:26+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/portfolio/poppy.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/react.html</loc>
-  <lastmod>2017-02-02T02:51:28+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/portfolio/redesign.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/caketop.html</loc>
-  <lastmod>2017-02-02T02:51:24+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/portfolio/gehealthcare.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/logoDesign.html</loc>
-  <lastmod>2017-02-02T02:51:27+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/portfolio/react.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/funscribbling.html</loc>
-  <lastmod>2017-02-02T02:51:25+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/portfolio/caketop.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/critique.html</loc>
-  <lastmod>2017-02-02T02:51:25+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/portfolio/logoDesign.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.aarthianbalagan.com/portfolio/mouseclick.html</loc>
-  <lastmod>2017-02-02T02:51:28+00:00</lastmod>
+  <loc>https://www.aarthirocks.com/portfolio/funscribbling.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
+<url>
+  <loc>https://www.aarthirocks.com/portfolio/critique.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.aarthirocks.com/portfolio/mouseclick.html</loc>
+  <lastmod>2021-08-12T23:51:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
